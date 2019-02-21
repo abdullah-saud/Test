@@ -7,8 +7,8 @@ namespace Test.Models
 {
     public class Testing1
     {
-        public int Id { get; set; }
-        public string name { get; set; }
+        private int Id { get; set; }
+       private string name { get; set; }
 
 
     }
